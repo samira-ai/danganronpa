@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: #8170D8;
+}
+
+header img {
+    border: 3px dashed #3016B0;
+}
+
+main img {
+    border: 3px dashed #3016B0;
+}
+
+main h1 {
+    background-color: #624AD8;
+    text-align: center;
+}
+
+main h2 {
+    background-color: #624AD8;
+    text-align: center;
+}
+
+footer p {
+    background-color: #3C2D84;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+nav {
+    background-color: #6A48D7;
+}
