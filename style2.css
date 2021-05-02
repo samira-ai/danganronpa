@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #8643D6;
+}
+
+header h1 {
+    background-color: #9B6AD6;
+    text-align: center;
+}
+
+main h1 {
+    background-color: #9B6AD6;
+    text-align: center;
+}
+
+main h2 {
+    background-color: #9B6AD6;
+    text-align: center;
+}
+
+main img {
+    border: 3px dashed #360570;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
